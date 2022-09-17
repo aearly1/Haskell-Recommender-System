@@ -1,1 +1,2 @@
 # Haskell-Recommender-System
+A recommender system for a toy data set has been developed using Haskell. The recommender system uses the users’ purchase history to recommend an item to the user based on their previous purchases if the current cart is empty. If there are items already added to the user's cart, an item is recommended to the user based on their previous purchases and the current items in the cart.
